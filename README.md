@@ -6,7 +6,7 @@ Aici se pot verifica versiunile actuale.
 https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager  
 Versiunea se actualizeaza in fisierul pom.xml. Dupa actualizare apasati pe butonul de refresh.    
 
-3.  
+2.    
 In caz ca va intrebati unde gasiti driverul in cache:  
 C:\Users\{USER_NAME}\.cache\selenium\chromedriver  
 .cache este hidden - trebuie sa folositi optiunea din windows "show hidden files"  
